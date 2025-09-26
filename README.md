@@ -3,6 +3,15 @@
 Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desarrollo de software.
 Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack y colaborativo
 
+- he trabajado con:
+- JWT
+- Hasheos
+- manejo de peticiones asyncronas para el manejo de concurrencia
+- manejo de errores HTTP
+
+Actualmente estoy en un proyecto academico a gran escala en el area de Autenticacion:
+- [SEA (Sistema de evudencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)
+
 ## 🚀 Tecnologías
 
 <p align="left">
@@ -18,7 +27,6 @@ Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack
 
 ## 📌 Proyectos destacados
 - [Liga CUT](https://github.com/OswaldoJRuiz/Liga_CUT/tree/Diego_Permisos): Sistema de gestión de ligas con microservicios.
-- he trabajado con JWT, Hasheos, manejo de peticiones asyncronas de la app, para el manejo de concurrencia, manejo de errores HTTP
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
