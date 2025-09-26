@@ -10,7 +10,7 @@ Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack
 - manejo de errores HTTP
 
 Actualmente estoy en un proyecto academico a gran escala en el area de Autenticacion:
-- [SEA (Sistema de evudencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)
+- [SEA (Sistema de evidencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)
 
 ## 🚀 Tecnologías
 
