@@ -16,4 +16,4 @@ Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
 
 ## 📫 Contacto
-[LinkedIn]([https://www.linkedin.com/in/tu-perfil](https://www.linkedin.com/in/diego-silva-86a1b1361/) ) • [Portafolio]("portafolio")
+[LinkedIn]([https://www.linkedin.com/in/diego-silva-86a1b1361/]) • [Portafolio]("portafolio")
