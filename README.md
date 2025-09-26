@@ -6,7 +6,7 @@ Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack
 - he trabajado con:
 - JWT
 - Hasheos
-- manejo de peticiones asyncronas para el manejo de concurrencia
+- manejo de peticiones asincronas para el manejo de concurrencia
 - manejo de errores HTTP
 
 Actualmente estoy en un proyecto academico a gran escala en el area de Autenticacion:
