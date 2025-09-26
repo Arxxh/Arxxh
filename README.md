@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hola, soy Diego 👋
 
-<!--
-**Arxxh/Arxxh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desarrollo de software.
 
-Here are some ideas to get you started:
+## 🚀 Tecnologías
+- Python / FastAPI
+- SQLAlchemy / PostgreSQL
+- Docker / Compose
+- Next.js / React / TypeScript
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Proyectos destacados
+- [Vacancit](https://github.com/Arxxh/Vacancit): Backend con FastAPI para buscador de empleos.
+- [Liga CUT](https://github.com/Arxxh/LigaCUT): Sistema de gestión de ligas con microservicios.
+
+## 📊 Stats
+![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
+
+## 📫 Contacto
+[LinkedIn](https://www.linkedin.com/in/tu-perfil) • [Portafolio](https://tuweb.com)
