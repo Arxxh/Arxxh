@@ -1,6 +1,7 @@
 # Hola, soy Diego 👋
 
 Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desarrollo de software.
+Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack y colaborativo
 
 ## 🚀 Tecnologías
 - Python / FastAPI
@@ -9,7 +10,6 @@ Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desa
 - Next.js / React / TypeScript
 
 ## 📌 Proyectos destacados
-- [Vacancit](https://github.com/Arxxh/Vacancit): Backend con FastAPI para buscador de empleos.
 - [Liga CUT](https://github.com/Arxxh/LigaCUT): Sistema de gestión de ligas con microservicios.
 
 ## 📊 Stats
