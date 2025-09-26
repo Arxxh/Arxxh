@@ -25,8 +25,8 @@ Actualmente estoy en un proyecto academico a gran escala en el area de Autentica
 </p>
 
 
-## 📌 Proyectos destacados
-- [Liga CUT](https://github.com/OswaldoJRuiz/Liga_CUT/tree/Diego_Permisos): Sistema de gestión de ligas con microservicios.
+## 📌 Proyectos destacados en los que he trabajado
+- [Liga CUT](https://github.com/OswaldoJRuiz/Liga_CUT/tree/Diego_Permisos): Sistema de gestión de ligas con microservicios (Area de Autenticacion)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
