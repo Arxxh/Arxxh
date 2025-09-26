@@ -1,7 +1,7 @@
 # Hola, soy Diego 👋
 
 Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desarrollo de software.
-Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack y colaborativo
+Me encantan los temas de seguridad en Software desde control de accesos hasta criticos, me gusta el desarrollo fullstack y colaborativo
 
 - he trabajado con:
 - JWT
