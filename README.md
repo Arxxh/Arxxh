@@ -17,7 +17,8 @@ Me encantan los temas de seguridad en Software, me gusta el desarrollo fullstack
 
 
 ## 📌 Proyectos destacados
-- [Liga CUT](https://github.com/Arxxh/LigaCUT): Sistema de gestión de ligas con microservicios.
+- [Liga CUT](https://github.com/OswaldoJRuiz/Liga_CUT/tree/Diego_Permisos): Sistema de gestión de ligas con microservicios.
+he trabajdo con JWT, Hasheos, manejo de peticiones asyncronas de la app, para el manejo de concurrencia
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
