@@ -9,7 +9,7 @@ Me encantan los temas de seguridad en Software desde control de accesos hasta cr
 - manejo de peticiones asincronas para el manejo de concurrencia
 - manejo de errores HTTP
 
-Actualmente estoy en un proyecto academico a gran escala en el area de Autenticacion:
+Proyecto como servicio social en mi universidad
 - [SEA (Sistema de evidencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)
 
 ##  Tecnologías
