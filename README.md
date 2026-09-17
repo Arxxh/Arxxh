@@ -1,32 +1,37 @@
-# Hola, soy Diego 👋
+# Hello, I'm Diego 👋
 
-Soy estudiante de Ingeniería en Ciencias Computacionales, especializado en desarrollo de software.
-Me encantan los temas de seguridad en Software desde control de accesos hasta criticos, me gusta el desarrollo fullstack y colaborativo
+I'm student of Computer Science at Universidad of Guadalajara, focused in software development
+I'm passionate about the topics about security in software stuff also love coding backend
 
-- he trabajado con:
-- JWT
-- Hasheos
-- manejo de peticiones asincronas para el manejo de concurrencia
-- manejo de errores HTTP
+- **Im working on Springboot as a main of my stack:**
+- Java Logic
+- Spring Security
+- APIs
+- Currently reading and study Spring AI
 
-Proyecto como servicio social en mi universidad
-- [SEA (Sistema de evidencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)
+My first colaboration with Java/Springboot project 
+**- [SEA (Sistema de evidencias academicas)](https://github.com/Sistema-de-Evidencias-Academicas)**
 
 ##  Tecnologías
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40"/>
+  <!-- Java & Spring Ecosystem -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="40" alt="Spring"/>
+  
+  <!-- Base de datos y Contenedores -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
+  
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" width="40" alt="Next.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
+  
+  <!-- Práctica y Lógica -->
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/65/HackerRank_logo.png" width="40" alt="HackerRank"/>
 </p>
 
-
-## 📌 Proyectos destacados en los que he trabajado
-- [Liga CUT](https://github.com/OswaldoJRuiz/Liga_CUT/tree/Diego_Permisos): Sistema de gestión de ligas con microservicios (Area de Autenticacion)
 
 ## 📊 Stats
 ![Stats](https://github-readme-stats.vercel.app/api?username=Arxxh&show_icons=true&theme=tokyonight)
